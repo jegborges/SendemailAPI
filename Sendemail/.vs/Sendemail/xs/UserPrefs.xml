@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A4C9A80F-3433-4BF2-934F-48298A76CA1E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sendemail PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sendemail/Services/MailService.cs">
+    <Files>
+      <File FileName="Sendemail/Controllers/MailController.cs" Line="1" Column="1" />
+      <File FileName="Sendemail/Services/MailService.cs" Line="35" Column="40" />
+      <File FileName="Sendemail/Settings/MailSettings.cs" Line="1" Column="1" />
+      <File FileName="Sendemail/appsettings.Development.json" Line="13" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sendemail" expanded="True">
+            <Node name="Sendemail" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="MailService.cs" selected="True" />
+              </Node>
+              <Node name="Settings" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
