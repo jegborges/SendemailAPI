@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{A4C9A80F-3433-4BF2-934F-48298A76CA1E}|Default">
   <MonoDevelop.Ide.ItemProperties.Sendemail PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sendemail/Services/MailService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sendemail/Controllers/MailController.cs">
     <Files>
-      <File FileName="Sendemail/Controllers/MailController.cs" Line="1" Column="1" />
-      <File FileName="Sendemail/Services/MailService.cs" Line="35" Column="40" />
-      <File FileName="Sendemail/Settings/MailSettings.cs" Line="1" Column="1" />
-      <File FileName="Sendemail/appsettings.Development.json" Line="13" Column="28" />
+      <File FileName="Sendemail/Controllers/MailController.cs" Line="15" Column="21" />
+      <File FileName="Sendemail/Services/MailService.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,12 +13,12 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="MailController.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="MailService.cs" selected="True" />
-              </Node>
+              <Node name="Services" expanded="True" />
               <Node name="Settings" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
             </Node>

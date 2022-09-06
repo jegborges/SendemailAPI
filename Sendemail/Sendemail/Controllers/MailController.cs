@@ -12,7 +12,7 @@ using Sendemail.Services;
 namespace Sendemail.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/Mail")]
     public class MailController : ControllerBase
     {
         // GET: /<controller>/
